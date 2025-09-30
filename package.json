@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-camino",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "n8n node for Camino AI - Location intelligence and spatial reasoning for AI agents",
   "keywords": [
     "n8n-community-node-package",
@@ -17,7 +17,7 @@
   "homepage": "https://github.com/Barneyjm/n8n-nodes-camino",
   "author": {
     "name": "James Barney",
-    "email": "james@southendsolutions.com"
+    "email": "Jamesbarney71@gmail.com"
   },
   "repository": {
     "type": "git",
