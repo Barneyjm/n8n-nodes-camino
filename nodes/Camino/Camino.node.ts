@@ -5,7 +5,7 @@ export class Camino implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'Camino AI',
 		name: 'camino',
-		icon: 'fa:map-marker',
+		icon: 'file:camino.svg',
 		group: ['transform'],
 		version: 1,
 		subtitle: '={{$parameter["operation"] + ": " + $parameter["resource"]}}',
